@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/raulz/Desktop/mysql-connector-java-5.1.42-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/raulz/Desktop/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raúl/Documents/MEGA/3º trimestre/Programacion/3ºEvaluacion/bases/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raúl/Documents/MEGA/3º trimestre/Programacion/3ºEvaluacion/bases/ojdbc6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
